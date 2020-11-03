@@ -61,7 +61,7 @@ class Invoice{
                 return invoiceAmount;
        }
 }
-public class Main{
+public class Exp1{
          public static void main(String []args){
                    Invoice myInvoice;
                    //Write your code here      
